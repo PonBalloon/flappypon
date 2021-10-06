@@ -1,0 +1,75 @@
+{ "frames": {
+   "twilightfly 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 34, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 32 },
+    "sourceSize": { "w": 34, "h": 32 },
+    "duration": 100
+   },
+   "twilightfly 1.aseprite": {
+    "frame": { "x": 34, "y": 0, "w": 34, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 32 },
+    "sourceSize": { "w": 34, "h": 32 },
+    "duration": 50
+   },
+   "twilightfly 2.aseprite": {
+    "frame": { "x": 68, "y": 0, "w": 34, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 32 },
+    "sourceSize": { "w": 34, "h": 32 },
+    "duration": 30
+   },
+   "twilightfly 3.aseprite": {
+    "frame": { "x": 102, "y": 0, "w": 34, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 32 },
+    "sourceSize": { "w": 34, "h": 32 },
+    "duration": 50
+   },
+   "twilightfly 4.aseprite": {
+    "frame": { "x": 136, "y": 0, "w": 34, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 32 },
+    "sourceSize": { "w": 34, "h": 32 },
+    "duration": 100
+   },
+   "twilightfly 5.aseprite": {
+    "frame": { "x": 170, "y": 0, "w": 34, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 34, "h": 32 },
+    "sourceSize": { "w": 34, "h": 32 },
+    "duration": 60
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.29-x64",
+  "image": "twilightfly.png",
+  "format": "RGBA8888",
+  "size": { "w": 204, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "back legs", "opacity": 255, "blendMode": "normal" },
+   { "name": "Tail", "opacity": 255, "blendMode": "normal" },
+   { "name": "torso", "opacity": 255, "blendMode": "normal" },
+   { "name": "frontlegs", "opacity": 255, "blendMode": "normal" },
+   { "name": "backhair", "opacity": 255, "blendMode": "normal" },
+   { "name": "head", "opacity": 255, "blendMode": "normal" },
+   { "name": "fronthair", "opacity": 255, "blendMode": "normal" },
+   { "name": "eyes", "opacity": 255, "blendMode": "normal" },
+   { "name": "ears", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
